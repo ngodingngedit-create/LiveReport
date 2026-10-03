@@ -1,0 +1,1 @@
+import{_ as t}from"./ScanPanel-iUbUMXPR.js";import{l as a,o as n}from"./index-D2kvXIcq.js";const _={__name:"Invitation",setup(e){return(i,o)=>(n(),a(t,{type:"invite",title:"Scan Invitation",subtitle:"Validasi QR undangan khusus tamu VIP dan partner."}))}};export{_ as default};

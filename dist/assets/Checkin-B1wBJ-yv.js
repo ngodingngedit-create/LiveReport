@@ -1,0 +1,1 @@
+import{_ as e}from"./ScanPanel-iUbUMXPR.js";import{l as t,o as a}from"./index-D2kvXIcq.js";const o={__name:"Checkin",setup(i){return(r,c)=>(a(),t(e,{type:"ticket",title:"Scan Tiket Check-In",subtitle:"Pindai QR tiket reguler, presale, dan VIP di pintu masuk."}))}};export{o as default};
